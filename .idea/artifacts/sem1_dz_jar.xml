@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="sem1_dz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sem1_dz_jar</output-path>
+    <root id="root">
+      <element id="archive" name="sem1_dz.jar">
+        <element id="module-output" name="sem1_dz" />
+      </element>
+    </root>
+  </artifact>
+</component>

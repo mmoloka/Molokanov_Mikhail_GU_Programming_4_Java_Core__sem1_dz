@@ -1,0 +1,7 @@
+FROM amazoncorretto:11
+COPY ./java ./src
+RUN mkdir ./out
+RUN javac -sourcepath ./src -d out src/org/example/sem1_dz/sample/Main.java
+CMD java -classpath ./out org.example.sem1_dz.sample.Main
+
+

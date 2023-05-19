@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.example.sem1_dz.regular","l":"Decorator"},{"p":"org.example.sem1_dz.regular","l":"Fibonacci"},{"p":"org.example.sem1_dz.sample","l":"Main"}]

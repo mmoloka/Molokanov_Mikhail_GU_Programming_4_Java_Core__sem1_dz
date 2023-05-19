@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.example.sem1_dz.regular"},{"l":"org.example.sem1_dz.sample"}]
